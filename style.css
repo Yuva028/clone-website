@@ -1,0 +1,675 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: rgb(26, 22, 22);
+	font-family: "Ubuntu", sans-serif;
+}
+.first-div{
+	background-position: top;
+	display: flex;
+	justify-content:space-between;
+	padding: 10px;
+	background-color: black;
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+h3{
+	color: red;
+	opacity: 1.0;
+	letter-spacing: 1px;
+	font-size: x-large;
+	margin-left: 20px;
+	background-color: black;
+	cursor: pointer;
+	text-shadow: none;
+}
+h6{
+	color:beige;
+	margin-left:50%;
+	background-color: black;
+	text-shadow: none;
+	margin-top: 8px;
+}
+.buttons{
+	padding: 5px;
+	font-size:small;
+	margin-right: 25px;
+	background-color:black;
+	color:white;
+	border-color: rgb(158, 156, 156);
+	width: 80px;
+	height: 30px;
+	cursor: pointer;	
+}
+.buttons:hover{
+	background-color: rgb(80, 76, 76);
+}
+.buttonsss{
+	background-color:rgb(212, 16, 16) ;
+	padding: 5px;
+	font-size:small;
+	margin-left:10px;
+	color:white;
+	border-color: rgb(235, 6, 6);
+	width: 100px;
+	height: 30px;
+	cursor: pointer;
+}
+.buttonsss:hover{
+	background-color: red;
+}
+
+h5{
+	color: whitesmoke;
+	font-size: x-large;
+	margin-top: 150px;
+	margin-left: 40px;
+}
+
+
+.content{
+	font-size: small;
+	color: rgb(102, 96, 96);
+	justify-content: space-between;
+	margin-left: 50px;
+	margin-top: 19px;
+	white-space: 5px;	
+}
+.second-div{
+	margin-left: 30px;
+}
+button{
+	border-color:  rgb(102, 96, 96);
+	background-color:  rgb(26, 22, 22);
+	color:rgb(102, 96, 96);
+	padding: 2px;
+	width: 20px;
+	border-width:1px;
+	border-style:solid;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#para{
+	color:aliceblue;
+	font-size: 14px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+p{
+	color:aliceblue;
+	font-size: 14px;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+.listing{
+	margin-left: 40px;
+	color: rgb(102, 96, 96);
+	font-size: 15px;
+	margin-top: 20px;
+}
+.list{
+	margin-left: 40px;
+	color: rgb(102, 96, 96);
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+.radius-block{
+	display: flex;
+	background-color: rgb(77, 74, 74);
+	width: 90%;
+	margin-left: 70px;
+	margin-top: 80px;
+	
+}
+ 
+#Word{
+	color: rgb(209, 10, 10);
+	font-size: 45px;
+	margin-left: 100px;
+	background-color: rgb(77, 74, 74);
+}
+
+.paragraph{
+	background-color:rgb(77, 74, 74);
+	font-weight: bold;
+	font-size: 17px ;
+	margin-top: 15px;
+	margin-right: 300px;
+	
+}
+a{
+	padding: 5px;
+	background-color: rgb(212, 16, 16) ;
+	font-size:small;
+	text-align: center;
+	margin-top: 10px;
+	text-decoration-line: none;
+	margin-left:320px;
+	color:white;
+	border-color: rgb(235, 6, 6);
+	width: 100px;
+	height: 20px;
+	cursor: pointer;
+}
+a:hover{
+	background-color: red;
+}
+hr{
+	margin-top: 60px;
+	margin-left: 70px;
+	margin-right: 60px;
+	border-width: none;
+	border-color: rgb(143, 129, 129);
+	
+}
+.line{
+	margin-top:20px;
+}
+#hot{
+	
+	text-align: center;
+	margin-top: 20px;
+	color: rgb(204, 198, 198);
+}
+#hits{
+	text-align: center;
+	margin-top: 5px;
+	color:rgb(204, 198, 198);
+}
+.epi{
+	margin-top: 80px;
+	margin-left: 70px;
+	
+}
+.font{
+	color: white;
+    font-style: normal;
+	font-size: x-large;
+}
+.unorded{
+
+	color:  rgb(204, 198, 198);
+	font-size: large;
+}
+.season{
+	color: white;
+	font-size: large;
+	margin-top:20px;
+}
+.year{
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 25px;
+	margin-left: 66px;
+}
+.section{
+	color:  rgb(204, 198, 198);
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 66px;
+}
+.cast{
+	color:  rgb(204, 198, 198);
+	font-size: 15px;
+	margin-top: 3px;
+	margin-left: 66px;
+}
+#characters{
+	display: flex;
+     justify-content: space-evenly;
+	 margin-left: 60px;
+	margin-top: 20px;
+}
+
+.images{
+	img {
+		width: 30%;
+		height: 100%;
+		justify-content: space-evenly;
+		margin: 10px;
+	}
+}
+
+#character-2{
+	display: flex;
+     justify-content: space-evenly;
+	margin-top: 15px;
+}
+.chill{
+	color: white;
+	font-size: 15px;
+}
+.chilli{
+	color:white;
+	font-size: 15px;
+}
+.chi{
+	color: white;
+	font-size: 15px;
+}
+#version{
+		display: flex;
+		 justify-content: space-evenly;
+		 margin-left: 60px;
+		margin-top: 5px;
+	}
+
+	.view{
+		img {
+			width: 30%;
+			height: 100%;
+			justify-content: space-evenly;
+			margin: 10px;
+		}
+	}
+
+	#character-3{
+		display: flex;
+		 justify-content: space-evenly;
+		margin-top: 15px;
+	}
+	.klaws{
+		color: white;
+		font-size: 15px;
+	}
+	.kla{
+		color:white;
+		font-size: 15px;
+	}
+	.klas{
+		color: white;
+		font-size: 15px;
+	}
+
+	#vers{
+		display: flex;
+		 justify-content: space-evenly;
+		 margin-left: 60px;
+		margin-top: 5px;
+	}
+	
+	.vi{
+		img {
+			width: 30%;
+			height: 100%;
+			justify-content: space-evenly;
+			margin: 10px;
+		}
+	}
+
+	#person{
+		display: flex;
+		 justify-content: space-evenly;
+		 margin-left: 60px;
+		margin-top: 5px;
+	}
+	
+	.per{
+		img {
+			width: 30%;
+			height: 100%;
+			justify-content: space-evenly;
+			margin: 10px;
+		}
+	}
+
+	#character-4{
+		display: flex;
+		 justify-content: space-evenly;
+		margin-top: 15px;
+	}
+	.haley{
+		color: white;
+		font-size: 15px;
+	}
+	.hal{
+		color:white;
+		font-size: 15px;
+	}
+	.liiy{
+		color: white;
+		font-size: 15px;
+	}
+
+
+	#hope{
+	     margin-left: 70px;
+		margin-top: 5px;
+	}
+	
+	.ho{
+		img {
+			width: 30%;
+		}
+	}
+
+	
+	.car{
+		color: white;
+		font-size: 15px;
+		margin-left:130px;
+
+	}
+	.written{
+		color: white;
+		margin-left: 65px;
+		margin-top: 90px;
+		font-size: 30px;
+		font-weight: 0;
+	}
+	#phen{
+		display: inline-flex;
+		
+	}
+	.onnu{
+		color:rgb(112, 110, 110);
+		margin-left: 65px;
+		font-size: 15px;
+		margin-top: 15px;
+	}
+	.rendu{
+		color: rgb(112, 110, 110);
+		margin-left: 260px;
+		font-size: 15px;
+		margin-top: 15px;
+	}
+	.moonu{
+		color: rgb(112, 110, 110);
+		margin-left: 380px;
+		font-size: 15px;
+		margin-top: 15px;
+	}
+	.nav{
+		display:flex;
+	}
+	.stp{
+		color:whitesmoke;
+		margin-left: 65px;
+	}
+	.br{
+		margin-left: 90px;
+		color: white;
+	}
+	.br:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.omi{
+		color: white;
+		margin-left: 80px;
+	}
+	#other{
+		margin-left:413px ;
+		color: white;
+	}
+	#other:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.caster{
+		color: rgb(112, 110, 110);
+		margin-left: 65px;
+		margin-top: 15px;
+		font-size: 15px;
+	}
+	.dob{
+		color: white;
+		margin-left: 65px;
+	}
+	.paul{
+		margin-left: 270px;
+	}
+	.ian{
+		margin-left: 355px;
+	}
+	.mc{
+		color: white;
+		margin-left: 65px;
+	}
+	.can{
+		margin-left: 220px;
+	}
+	.kat{
+		margin-left: 350px;
+	}
+
+	.candice{
+		color: white;
+		margin-left: 65px;
+	}
+	.king{
+		margin-left: 265px;
+	}
+	.dice{
+		margin-left: 355px;
+	}
+
+	.davis{
+		color: white;
+		margin-left: 65px;
+	}
+	.mor{
+		margin-left: 255px;
+	}
+	.netflix{
+		color: rgb(112, 110, 110);
+		margin-top: 70px;
+		margin-left: 65px;
+	}
+	#last{
+		color:  rgb(112, 110, 110);
+		margin-left: 65px;
+		margin-top: 110px;
+		font-size: 16px;
+	}
+	#flex{
+		color:  rgb(112, 110, 110);
+		margin-left: 5px;
+		margin-top: 110px;
+		font-size: 16px;
+	}
+	#flex:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+
+
+	.faq{
+		color: rgb(112, 110, 110);
+		margin-top: 35px;
+		margin-left: 65px;
+		font-size: 12px;
+	}
+	.faq:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.help{
+		color: rgb(112, 110, 110);
+		margin-top: 35px;
+		margin-left: 65px;
+		margin-left: 170px;
+		font-size: 12px;
+
+	}
+	.help:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.account{
+		color: rgb(112, 110, 110);
+		margin-top: 35px;
+		margin-left: 170px;
+		font-size: 12px;
+
+	}
+	.account:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.media{
+		color: rgb(112, 110, 110);
+		margin-top: 35px;
+		margin-left: 170px;
+		font-size: 12px;
+	}
+	.media:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.inv{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 65px;
+		font-size: 12px;
+		
+	}
+	.inv:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.job{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+	     margin-left: 100px;
+		 font-size: 12px;
+	}
+	.job:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.ways{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 205px;
+		font-size: 12px;
+
+	}
+	.ways:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.use{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 134px;
+		font-size: 12px;
+	}
+	.use:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+
+	.pri{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 65px;
+		font-size: 12px;
+	}
+	.pri:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.cookie{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 155px;
+		font-size: 12px;
+
+	}
+	.cookie:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.cor{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 125px;
+		font-size: 12px;
+
+	}
+	.cor:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.us{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 100px;
+		font-size: 12px;
+	}
+	.us:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+
+	.test{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 65px;
+		font-size: 12px;
+		
+	}
+	.test:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.note{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left:135px;
+		font-size: 12px;
+	}
+	.note:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.only{
+		color: rgb(112, 110, 110);
+		margin-top: 15px;
+		margin-left: 160px;
+        font-size: 12px;
+	}
+	.only:hover{
+		cursor: pointer;
+		text-decoration: underline;
+	}
+	.icon{
+		display: flex;
+		width: 120px;
+		padding: 15px;
+		justify-content: space-between;
+		margin-left: 65px;
+		margin-top: 50px;
+		background-color: black;
+		border-color: rgb(49, 49, 49);
+	}
+	.india{
+		margin-top: 30px;
+		margin-left: 65px;
+		color: rgb(112, 110, 110);
+		margin-bottom: 50px;
+	}
+
+	#drop{
+		margin-left: 70px;
+	    margin-top:40px;
+		margin-bottom: 20px;
+		width: 120px;
+		height: 35px;
+		text-align: center;
+		color: white;
+		font-size: large;
+		padding-right: 10px;
+	}
+	
+
+
+	
+	
